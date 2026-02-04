@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.1...v1.1.2) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([b312879](https://github.com/CoCreate-app/CoCreate-rollup/commit/b31287993959c30110ecc8b3762ae3e5cda293b0))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.0...v1.1.1) (2025-09-07)
 
 
