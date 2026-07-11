@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.2...v1.1.3) (2026-07-11)
+
+
+### Bug Fixes
+
+* removed post install and add add packages to apprved list ([4cc46a8](https://github.com/CoCreate-app/CoCreate-rollup/commit/4cc46a8ca4f7cf4d569cbecfe94e4dcfc139c3df))
+* semantic version handling ([cd4e50f](https://github.com/CoCreate-app/CoCreate-rollup/commit/cd4e50fd148f10fcfc7c57c9f99579c99ee0a808))
+
 ## [1.1.2](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.1...v1.1.2) (2026-02-04)
 
 
