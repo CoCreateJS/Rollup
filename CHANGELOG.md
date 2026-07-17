@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.3...v1.2.0) (2026-07-17)
+
+
+### Features
+
+* update automated workflow and release configuration for improved semantic release handling ([066c957](https://github.com/CoCreate-app/CoCreate-rollup/commit/066c957c40374b3a28b92a4b3be9a1d866d445ef))
+
 ## [1.1.3](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.2...v1.1.3) (2026-07-11)
 
 
