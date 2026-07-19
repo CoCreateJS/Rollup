@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.2.1...v1.2.2) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([2e8b63a](https://github.com/CoCreate-app/CoCreate-rollup/commit/2e8b63ac7ae3af2c636c97ce6788e2da85a43930))
+
 ## [1.2.1](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.2.0...v1.2.1) (2026-07-17)
 
 
