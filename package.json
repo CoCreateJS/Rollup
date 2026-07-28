@@ -41,7 +41,7 @@
   },
   "main": "./src/index.js",
   "devDependencies": {
-    "@cocreate/webpack": "^1.6.0"
+    "@cocreate/webpack": "^1.6.2"
   },
   "allowScripts": {
     "@cocreate/webpack@1.4.3": true
