@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreate-rollup.git"
+    "url": "git+https://github.com/CoCreateJS/CoCreate-rollup.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-rollup/issues"
+    "url": "https://github.com/CoCreateJS/CoCreate-rollup/issues"
   },
-  "homepage": "https://cocreate.app/docs/rollup",
+  "homepage": "https://CoCreateJS.com/docs/rollup",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"
