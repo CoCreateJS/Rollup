@@ -4,6 +4,12 @@ const writeFileAsync = promisify(fs.writeFile);
 
 import CoCreateConfig from './CoCreate.config.js';
 
+/**
+ * Create a Rollup plugin that generates CoCreate lazy-loading and dependency registrations from CoCreate.config.
+ *
+ * @public
+ * @environment tooling
+ */
 export default function CoCreateLazyLoader() {
     let modulesGenerated = false;
 
@@ -47,3 +53,10 @@ export default function CoCreateLazyLoader() {
         },
     };
 }
+
+/**
+ * A Rollup integration tool for CoCreate applications, enabling file watching, automated chunking, lazy loading, and file uploading. It leverages CoCreate.config for streamlined project builds and development workflows.
+ *
+ * @module rollup
+ * @environment tooling
+ */
