@@ -1,3 +1,23 @@
+# [2.0.0](https://github.com/CoCreateJS/Rollup/compare/v1.2.2...v2.0.0) (2026-11-02)
+
+
+### Bug Fixes
+
+* add Deno specific entries to .gitignore ([e7cc00d](https://github.com/CoCreateJS/Rollup/commit/e7cc00dacf860aacd781b7c0e8247e70d8ae32bd))
+* bump versions ([5b8d686](https://github.com/CoCreateJS/Rollup/commit/5b8d686f77a125e438e508bacc0e19754f09fb41))
+* remove trailing slash from node_modules entry in .gitignore ([758d552](https://github.com/CoCreateJS/Rollup/commit/758d552cef5013f43965a7971cdbd103b9c6db1b))
+* update GitHub Actions to use latest versions and sync package.json description ([ffca54c](https://github.com/CoCreateJS/Rollup/commit/ffca54ca98fe4e3e3dbd19f5a02e1a355260ec31))
+
+
+### chore
+
+* record repository identity migration as breaking ([31b4a4b](https://github.com/CoCreateJS/Rollup/commit/31b4a4b0fbf8f9c5cec99c365da158bb031826f5))
+
+
+### BREAKING CHANGES
+
+* Consumers must use the CoCreateJS repository identity; the previous repository identity is no longer supported.
+
 ## [1.2.2](https://github.com/CoCreateJS/CoCreate-rollup/compare/v1.2.1...v1.2.2) (2026-07-19)
 
 
